@@ -1,4 +1,4 @@
-# Gitignore for APCS Lowell repositories
+# Gitignore
 
 # Ignore compiled processing class files
 build-tmp/
